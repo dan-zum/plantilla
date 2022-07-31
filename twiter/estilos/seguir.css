@@ -1,0 +1,90 @@
+.avatardoce img{
+     
+    position: relative;
+    top:-10px;
+    left: 0px;
+    text-align: justify;
+    border-radius: 20%;
+    font-size: 15px;
+  width: 50px;
+
+}
+#loi{
+    
+    position: absolute;
+    top:60px;
+    left: 85px;
+    text-align: justify;
+    border-radius: 20%;
+    font-size: 15px;
+  width: 50px;
+
+}
+#loo{
+    position: absolute;
+    top: 80px;
+   color: #666666;
+   left: 85px;
+   font-size: 10px;
+}
+
+#loii{
+    
+    position: absolute;
+    top:105px;
+    left: 85px;
+    text-align: justify;
+    border-radius: 20%;
+    font-size: 15px;
+  width: 100px;
+
+}
+#lodos{
+    position: absolute;
+    top: 135px;
+   color: #666666;
+   left: 85px;
+   font-size: 10px;
+}
+
+#loiii{
+    
+    position: absolute;
+    top:170px;
+    left: 85px;
+    text-align: justify;
+    border-radius: 20%;
+    font-size: 15px;
+  width: 70px;
+
+}
+#lotres{
+    position: absolute;
+    top: 189px;
+   color: #666666;
+   left: 85px;
+   font-size: 10px;
+}
+#loiiii{
+    
+    position: absolute;
+    top:220px;
+    left: 85px;
+    text-align: justify;
+    border-radius: 20%;
+    font-size: 15px;
+  width: 70px;
+
+}
+#locuatro{
+    position: absolute;
+    top: 240px;
+   color: #666666;
+   left: 85px;
+   font-size: 10px;
+}
+
+#borde{
+    border: white 10px ridge;
+    width: 290px;
+}
